@@ -1,5 +1,5 @@
 streamlit
-torch==2.2.2
+torch>=2.1.0
 torchvision==0.17.2
 yolov5==7.0.9
 pandas
